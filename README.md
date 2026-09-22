@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falakus10&label=Profile%20views&color=0e75b6&style=flat" alt="falakus10" /> </p>
 
-- 🔭 I’m currently working in **Inverted Pendulum Project**
+- 🔭 I’m currently working in **HavyaBot**
 
 - 🌱 I’m currently learning **Data Analysis and Artificial Intelligence**
 
